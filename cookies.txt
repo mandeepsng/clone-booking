@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+connect.pabau.com	TRUE	/	FALSE	1999999999	PHPSESSID	be3hk9v4rppvjenesrh7ih60q6
+crm.pabau.com	TRUE	/	FALSE	1999999999	PHPSESSID	0u5u95s6010jq6a8ddnci3dk33
+
